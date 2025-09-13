@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Deepika</h1>
 <h3 align="center">Frappe | Django | Python | JavaScript Developer</h3>
 
-- 🔭 I’m currently working at **XYZ Corporation**
-- 🌱 I’m currently learning **Machine Learning & Cloud DevOps**
-- 👯 I’m open to collaborate on **Python/Django projects**
+- 🔭 I’m currently working at Tridots Tech PVT Limited
+- 👯 I’m open to collaborate on **Frappe/ERPNext/Django  projects**
 - 💬 Ask me about **Frappe, ERPNext, or Django**
 - ⚡ Fun fact: I love debugging complex logic! 😄
 
